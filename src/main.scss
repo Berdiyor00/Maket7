@@ -1,0 +1,406 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+.fonts2,.main__blog__bg{
+	font-family: 'Rubik', sans-serif;
+}
+.fonts{
+	font-family: 'Karla', sans-serif;
+}
+header{
+  background-image: url(./assets/Img/Bgimg.png);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+ul{
+  transition: 1s;
+}
+
+button{
+  transition: 0.5s;
+}
+.relativ{
+  position: relative;
+}
+.main__blog__bg{
+  background-image: url(./assets//Img/Header.png);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+.containers{
+  max-width: 1557px;
+  width: 100%;
+  margin: 0 auto;
+  background-color: rgb(255, 250, 250);
+
+}
+.section{
+  width: 100%;
+ 
+}
+#navbar{
+  
+  position: fixed;
+  top: 0;
+  width:100%;
+  display: block;
+  transition: top 0.3s;
+
+}
+
+.hero{
+  background-image: url(./assets/Img/Bgimg.png);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+
+}
+.transition{
+  transition: 1s;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.listborter ul :hover{
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+  border: 1px solid #FF971D ;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  transition: 1s;
+}
+.listborter ul li{
+  text-wrap: nowrap;
+}
+.hovers:hover{
+	color: #FF971D;
+	
+}
+.bacgroundwrap{
+
+  background-image: url(./assets/Img/detail.png);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+
+}
+
+
+
+
+
+
+:root {
+	--hue: 223;
+	--trans-dur: 0.3s;
+	
+}
+.wrapp {
+	
+
+	height: 100vh;
+	display: grid;
+	
+}
+.pencil {
+	display: block;
+	width: 10em;
+	height: 10em;
+}
+.pencil__body1,
+.pencil__body2,
+.pencil__body3,
+.pencil__eraser,
+.pencil__eraser-skew,
+.pencil__point,
+.pencil__rotate,
+.pencil__stroke {
+	animation-duration: 3s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+}
+.pencil__body1,
+.pencil__body2,
+.pencil__body3 {
+	transform: rotate(-90deg);
+}
+.img{
+	width: 200px;
+	object-fit: cover;
+}
+.pencil__body1 {
+	animation-name: pencilBody1;
+}
+.pencil__body2 {
+	animation-name: pencilBody2;
+}
+.pencil__body3 {
+	animation-name: pencilBody3;
+}
+.pencil__eraser {
+	animation-name: pencilEraser;
+	transform: rotate(-90deg) translate(49px,0);
+}
+.pencil__eraser-skew {
+	animation-name: pencilEraserSkew;
+	animation-timing-function: ease-in-out;
+}
+.pencil__point {
+	animation-name: pencilPoint;
+	transform: rotate(-90deg) translate(49px,-30px);
+}
+.pencil__rotate {
+	animation-name: pencilRotate;
+}
+.pencil__stroke {
+	animation-name: pencilStroke;
+	transform: translate(100px,100px) rotate(-113deg);
+}
+
+/* Animations */
+@keyframes pencilBody1 {
+	
+	to {
+		stroke-dashoffset: 351.86;
+		transform: rotate(-90deg);
+	}
+	50% {
+		stroke-dashoffset: 150.8; /* 3/8 of diameter */
+		transform: rotate(-225deg);
+	}
+}
+@keyframes pencilBody2 {
+	
+	to {
+		stroke-dashoffset: 406.84;
+		transform: rotate(-90deg);
+	}
+	50% {
+		stroke-dashoffset: 174.36;
+		transform: rotate(-225deg);
+	}
+}
+@keyframes pencilBody3 {
+	
+	to {
+		stroke-dashoffset: 296.88;
+		transform: rotate(-90deg);
+	}
+	50% {
+		stroke-dashoffset: 127.23;
+		transform: rotate(-225deg);
+	}
+}
+@keyframes pencilEraser {
+	
+	to {
+		transform: rotate(-45deg) translate(49px,0);
+	}
+	50% {
+		transform: rotate(0deg) translate(49px,0);
+	}
+}
+@keyframes pencilEraserSkew {
+	
+	to {
+		transform: skewX(0);
+	}
+	
+	65% {
+		transform: skewX(-4deg);
+	}
+	 
+	62.5% {
+		transform: skewX(8deg);
+	}
+	
+	60% {
+		transform: skewX(-15deg);
+	}
+	
+	57.5% {
+		transform: skewX(15deg);
+	}
+}
+@keyframes pencilPoint {
+	
+	to {
+		transform: rotate(-90deg) translate(49px,-30px);
+	}
+	50% {
+		transform: rotate(-225deg) translate(49px,-30px);
+	}
+}
+@keyframes pencilRotate {
+	from {
+		transform: translate(100px,100px) rotate(0);
+	}
+	to {
+		transform: translate(100px,100px) rotate(720deg);
+	}
+}
+@keyframes pencilStroke {
+	from {
+		stroke-dashoffset: 439.82;
+		transform: translate(100px,100px) rotate(-113deg);
+	}
+	50% {
+		stroke-dashoffset: 164.93;
+		transform: translate(100px,100px) rotate(-113deg);
+	}
+
+	to {
+		stroke-dashoffset: 439.82;
+		transform: translate(100px,100px) rotate(112deg);
+	}
+}
+@media (max-width:768px) {
+	.swiper{
+		display: none;
+	}
+
+	
+}
+@media (max-width:568px) {
+	
+.swiper {
+	
+	width: 300px;
+    position: absolute;
+    left: -245px;
+    bottom: -238px;
+    margin-top: -120px;
+    display: block;
+	
+  }
+  
+  #navbar{
+	background-color: #FF971D;
+	z-index: 10;
+  }
+  .swiper-slide {
+	text-align: center;
+	font-size: 18px;
+	display: flex;
+	justify-content: center;
+	align-items: baseline;
+	
+	
+  }
+  .swiper-button-prev{
+	display: none;
+  }
+  .swiper-button-next{
+	display: none;
+  }
+  
+  .swiper-slide img {
+	display: block;
+	width:300px;
+	height: 300px;
+	object-fit: cover !important;
+	margin-left: -10px;
+  }
+  .btns{
+	color: #fff !important;
+}
+.btn {
+	color: aliceblue;
+	border: 1px solid #fff;
+}
+}
+
+.btns{
+	color: #FF971D;
+}
+.btn{
+	color: #fff;
+
+}
+
+
+  
+.swiper{
+	top: 0;
+	-webkit-box-shadow: 0px 0px 8px 2px rgba(34, 60, 80, 0.2);
+	-moz-box-shadow: 0px 0px 8px 2px rgba(34, 60, 80, 0.2);
+	box-shadow: 0px 0px 8px 2px rgba(34, 60, 80, 0.2);
+}
+
+.xbtn{
+font-size: 18px;
+color: black;
+}
+#scroll{
+	background: #000;
+}
+
+.button {
+	font-family: inherit;
+	font-size: 20px;
+	background: royalblue;
+	color: white;
+	padding: 0.7em 1em;
+	padding-left: 0.9em;
+	display: flex;
+	align-items: center;
+	border: none;
+	border-radius: 16px;
+	overflow: hidden;
+	transition: all 0.2s;
+	cursor: pointer;
+  }
+  
+  .button span {
+	display: block;
+	margin-left: 0.3em;
+	transition: all 0.3s ease-in-out;
+  }
+  
+  .button svg {
+	display: block;
+	transform-origin: center center;
+	transition: transform 0.3s ease-in-out;
+  }
+  
+  .button:hover .svg-wrapper {
+	animation: fly-1 0.6s ease-in-out infinite alternate;
+  }
+  
+  .button:hover svg {
+	transform: translateX(1.2em) rotate(45deg) scale(1.1);
+  }
+  
+  .button:hover span {
+	transform: translateX(5em);
+  }
+  
+  button:active {
+	transform: scale(0.95);
+  }
+  
+  @keyframes fly-1 {
+	from {
+	  transform: translateY(0.1em);
+	}
+  
+	to {
+	  transform: translateY(-0.1em);
+	}
+  }

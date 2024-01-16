@@ -1,0 +1,454 @@
+[
+    {
+      "author": "Chinua Achebe",
+      "country": "Nigeria",
+      "imageLink": "https://c8.alamy.com/comp/2DBJ9DR/chinua-achebe-things-fall-apart-paperback-book-2DBJ9DR.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+      "pages": 209,
+      "title": "Things Fall Apart",
+      "year": 1958
+    },
+    {
+      "author": "Hans Christian Andersen",
+      "country": "Denmark",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Njal_saga_-_Gunnar_Hallgerdr.jpg/1200px-Njal_saga_-_Gunnar_Hallgerdr.jpg",
+      "language": "Danish",
+      "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+      "pages": 784,
+      "title": "Fairy tales",
+      "year": 1836
+    },
+    {
+      "author": "Dante Alighieri",
+      "country": "Italy",
+      "imageLink": "https://media.istockphoto.com/id/491065249/photo/dante-and-the-divine-comedy-duomo-cathedral-basilica-florence-it.jpg?s=612x612&w=0&k=20&c=dwGQWUaPOkF3vqis-q2etOfOFretWvbaBtyK6Sd51VE=",
+      "language": "Italian",
+      "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+      "pages": 928,
+      "title": "The Divine Comedy",
+      "year": 1315
+    },
+    {
+      "author": "Unknown",
+      "country": "Sumer and Akkadian Empire",
+      "imageLink": "https://cdn.kobo.com/book-images/ee5d3458-137f-4e3f-8c83-3d18758670fa/353/569/90/False/the-epic-of-gilgamesh-14.jpg",
+      "language": "Akkadian",
+      "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+      "pages": 160,
+      "title": "The Epic Of Gilgamesh",
+      "year": -1700
+    },
+    {
+      "author": "Unknown",
+      "country": "Achaemenid Empire",
+      "imageLink": "https://oll-resources.s3.amazonaws.com/titles/2155/lf1434_figure_001.jpg",
+      "language": "Hebrew",
+      "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
+      "pages": 176,
+      "title": "The Book Of Job",
+      "year": -600
+    },
+    {
+      "author": "Unknown",
+      "country": "India/Iran/Iraq/Egypt/Tajikistan",
+      "imageLink": "https://c8.alamy.com/comp/EXPWJX/1910s-uk-the-thousand-and-one-nights-book-plate-EXPWJX.jpg",
+      "language": "Arabic",
+      "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+      "pages": 288,
+      "title": "One Thousand and One Nights",
+      "year": 1200
+    },
+    {
+      "author": "Unknown",
+      "country": "Iceland",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Njal_saga_-_Gunnar_Hallgerdr.jpg/1200px-Njal_saga_-_Gunnar_Hallgerdr.jpg",
+      "language": "Old Norse",
+      "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
+      "pages": 384,
+      "title": "Nj\u00e1l's Saga",
+      "year": 1350
+    },
+    {
+      "author": "Jane Austen",
+      "country": "United Kingdom",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pride_and_Prejudice_CH_19.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+      "pages": 226,
+      "title": "Pride and Prejudice",
+      "year": 1813
+    },
+    {
+      "author": "Honor\u00e9 de Balzac",
+      "country": "France",
+      "imageLink": "https://c8.alamy.com/comp/JCFKR9/illustration-for-le-pre-goriot-by-honor-de-balzac-1799-1850-the-physician-JCFKR9.jpg",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+      "pages": 443,
+      "title": "Le P\u00e8re Goriot",
+      "year": 1835
+    },
+    {
+      "author": "Samuel Beckett",
+      "country": "Republic of Ireland",
+      "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51dMD0BITsL._AC_UL600_SR600,600_.jpg",
+      "language": "French, English",
+      "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+      "pages": 256,
+      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "year": 1952
+    },
+    {
+      "author": "Giovanni Boccaccio",
+      "country": "Italy",
+      "imageLink": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781804173442/the-decameron-9781804173442_hr.jpg",
+      "language": "Italian",
+      "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
+      "pages": 1024,
+      "title": "The Decameron",
+      "year": 1351
+    },
+    {
+      "author": "Jorge Luis Borges",
+      "country": "Argentina",
+      "imageLink": "https://c8.alamy.com/comp/2PM0F2N/ficciones-fictions-collected-fictions-book-by-jorge-luis-borges-spanish-edition-vintage-espanol-2PM0F2N.jpg",
+      "language": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Ficciones\n",
+      "pages": 224,
+      "title": "Ficciones",
+      "year": 1965
+    },
+    {
+      "author": "Emily Bront\u00eb",
+      "country": "United Kingdom",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wuthering_Heights_%281939_poster%29.jpg/513px-Wuthering_Heights_%281939_poster%29.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
+      "pages": 342,
+      "title": "Wuthering Heights",
+      "year": 1847
+    },
+    
+    {
+      "author": "Paul Celan",
+      "country": "Romania, France",
+      "imageLink": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/615im2yvhIL._AC_UF1000,1000_QL80_.jpg",
+      "language": "German",
+      "link": "\n",
+      "pages": 320,
+      "title": "Poems",
+      "year": 1952
+    },
+    {
+      "author": "Louis-Ferdinand C\u00e9line",
+      "country": "France",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/5/59/Journey_to_the_End_of_the_Night_1932.jpg",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night\n",
+      "pages": 505,
+      "title": "Journey to the End of the Night",
+      "year": 1932
+    },
+    {
+      "author": "Miguel de Cervantes",
+      "country": "Spain",
+      "imageLink": "https://m.media-amazon.com/images/I/81YwDuGseyL._AC_UF1000,1000_QL80_.jpg",
+      "language": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Don_Quixote\n",
+      "pages": 1056,
+      "title": "Don Quijote De La Mancha",
+      "year": 1610
+    },
+    {
+      "author": "Geoffrey Chaucer",
+      "country": "England",
+      "imageLink": "https://cdn.britannica.com/33/129333-050-D3E1E1B8/Geoffrey-Chaucer-manuscript-Ellesmere-The-Canterbury-Tales.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+      "pages": 544,
+      "title": "The Canterbury Tales",
+      "year": 1450
+    },
+    {
+      "author": "Anton Chekhov",
+      "country": "Russia",
+      "imageLink": "https://www.insightpublica.com/assets/img/books/insight_publica_book398_image_1_.1533772-jpg",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
+      "pages": 194,
+      "title": "Stories",
+      "year": 1886
+    },
+    {
+      "author": "Joseph Conrad",
+      "country": "United Kingdom",
+      "imageLink": "https://media.istockphoto.com/id/458606099/photo/nostromo-on-white.jpg?s=612x612&w=0&k=20&c=pvKP_Tkuj0VF8o3vQDXhg-GBJ6w5nZ3PFTAVn3gITlo=",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Nostromo\n",
+      "pages": 320,
+      "title": "Nostromo",
+      "year": 1904
+    },
+    {
+      "author": "Charles Dickens",
+      "country": "United Kingdom",
+      "imageLink": "https://m.media-amazon.com/images/I/71UWvkzeKgL._AC_UF1000,1000_QL80_.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
+      "pages": 194,
+      "title": "Great Expectations",
+      "year": 1861
+    },
+    {
+      "author": "Denis Diderot",
+      "country": "France",
+      "imageLink": "https://m.media-amazon.com/images/I/81QmaltqQsL._AC_UF1000,1000_QL80_.jpg",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
+      "pages": 596,
+      "title": "Jacques the Fatalist",
+      "year": 1796
+    },
+    {
+      "author": "Alfred D\u00f6blin",
+      "country": "Germany",
+      "imageLink": "https://media.istockphoto.com/id/488869875/photo/world-clock-of-berlin-city-germany.jpg?s=612x612&w=0&k=20&c=qwcK2-MqwiPVy5tXMoSPwqJHcFj9jbRBjKS1bTpTgyU=",
+      "language": "German",
+      "link": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
+      "pages": 600,
+      "title": "Berlin Alexanderplatz",
+      "year": 1929
+    },
+    {
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "imageLink": "https://m.media-amazon.com/images/I/41AM6pjaZhL.jpg",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
+      "pages": 551,
+      "title": "Crime and Punishment",
+      "year": 1866
+    },
+    {
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "imageLink": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781627938525/the-idiot-9781627938525_hr.jpg",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/The_Idiot\n",
+      "pages": 656,
+      "title": "The Idiot",
+      "year": 1869
+    },
+    {
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Thepossessed2021poster.jpg/220px-Thepossessed2021poster.jpg",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
+      "pages": 768,
+      "title": "The Possessed",
+      "year": 1872
+    },
+    {
+      "author": "Fyodor Dostoevsky",
+      "country": "Russia",
+      "imageLink": "https://cdn.kobo.com/book-images/1208ebc8-3b5d-40ef-ba2d-b5121520d7e2/1200/1200/False/the-brothers-karamazov-135.jpg",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
+      "pages": 824,
+      "title": "The Brothers Karamazov",
+      "year": 1880
+    },
+    {
+      "author": "George Eliot",
+      "country": "United Kingdom",
+      "imageLink": "https://images.squarespace-cdn.com/content/v1/5d40204073334a0001f2f066/1596977244108-N9RBMAE7VRPJBUULTPW2/71enfWngl2L.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Middlemarch\n",
+      "pages": 800,
+      "title": "Middlemarch",
+      "year": 1871
+    },
+    {
+      "author": "Ralph Ellison",
+      "country": "United States",
+      "imageLink": "https://static.toiimg.com/thumb/msid-103759252,width-400,resizemode-4/103759252.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
+      "pages": 581,
+      "title": "Invisible Man",
+      "year": 1952
+    },
+    {
+      "author": "Euripides",
+      "country": "Greece",
+      "imageLink": "https://pup-assets.imgix.net/onix/images/9780691043760.jpg?w=410&auto=format",
+      "language": "Greek",
+      "link": "https://en.wikipedia.org/wiki/Medea_(play)\n",
+      "pages": 104,
+      "title": "Medea",
+      "year": -431
+    },
+    {
+      "author": "William Faulkner",
+      "country": "United States",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Absalom%2C_Absalom%21_%281936_1st_ed_cover%29.jpg/411px-Absalom%2C_Absalom%21_%281936_1st_ed_cover%29.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Absalom,_Absalom!\n",
+      "pages": 313,
+      "title": "Absalom, Absalom!",
+      "year": 1936
+    },
+    {
+      "author": "William Faulkner",
+      "country": "United States",
+      "imageLink": "https://m.media-amazon.com/images/M/MV5BMjE3Nzc1NTg5OF5BMl5BanBnXkFtZTgwNDMwMzk4MjE@._V1_.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury\n",
+      "pages": 326,
+      "title": "The Sound and the Fury",
+      "year": 1929
+    },
+    {
+      "author": "Gustave Flaubert",
+      "country": "France",
+      "imageLink": "https://insightpublica.com/assets/img/books/insight_publica_book537_image_1_.4320521-jpg",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/Madame_Bovary\n",
+      "pages": 528,
+      "title": "Madame Bovary",
+      "year": 1857
+    },
+    {
+      "author": "Gustave Flaubert",
+      "country": "France",
+      "imageLink": "https://m.media-amazon.com/images/I/61F3SOt4pkL._AC_UF894,1000_QL80_.jpg",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/Sentimental_Education\n",
+      "pages": 606,
+      "title": "Sentimental Education",
+      "year": 1869
+    },
+    {
+      "author": "Federico Garc\u00eda Lorca",
+      "country": "Spain",
+      "imageLink": "https://www.universolorca.com/wp-content/uploads/2018/12/POE_04_01a.jpg",
+      "language": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Gypsy_Ballads\n",
+      "pages": 218,
+      "title": "Gypsy Ballads",
+      "year": 1928
+    },
+    {
+      "author": "Gabriel Garc\u00eda M\u00e1rquez",
+      "country": "Colombia",
+      "imageLink": "https://cdn2.penguin.com.au/covers/original/9780241968581.jpg",
+      "language": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude\n",
+      "pages": 417,
+      "title": "One Hundred Years of Solitude",
+      "year": 1967
+    },
+    {
+      "author": "Gabriel Garc\u00eda M\u00e1rquez",
+      "country": "Colombia",
+      "imageLink": "https://m.media-amazon.com/images/M/MV5BMTQ3OTE0OTM4N15BMl5BanBnXkFtZTcwNDg3OTI1MQ@@._V1_.jpg",
+      "language": "Spanish",
+      "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n",
+      "pages": 368,
+      "title": "Love in the Time of Cholera",
+      "year": 1985
+    },
+    {
+      "author": "Johann Wolfgang von Goethe",
+      "country": "Saxe-Weimar",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Faust-Goethe.jpg",
+      "language": "German",
+      "link": "https://en.wikipedia.org/wiki/Goethe%27s_Faust\n",
+      "pages": 158,
+      "title": "Faust",
+      "year": 1832
+    },
+    {
+      "author": "Nikolai Gogol",
+      "country": "Russia",
+      "imageLink": "https://m.media-amazon.com/images/M/MV5BMWQxMTQ5YmEtM2M5ZC00N2ExLWI3NDAtYjYzYWU5MTMzYzBjXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+      "language": "Russian",
+      "link": "https://en.wikipedia.org/wiki/Dead_Souls\n",
+      "pages": 432,
+      "title": "Dead Souls",
+      "year": 1842
+    },
+    {
+      "author": "G\u00fcnter Grass",
+      "country": "Germany",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Die_Blechtrommel_earliest_edition_german.jpg/220px-Die_Blechtrommel_earliest_edition_german.jpg",
+      "language": "German",
+      "link": "https://en.wikipedia.org/wiki/The_Tin_Drum\n",
+      "pages": 600,
+      "title": "The Tin Drum",
+      "year": 1959
+    },
+    {
+      "author": "Jo\u00e3o Guimar\u00e3es Rosa",
+      "country": "Brazil",
+      "imageLink": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/A17gUOGW44L._AC_UF350,350_QL50_.jpg",
+      "language": "Portuguese",
+      "link": "https://en.wikipedia.org/wiki/The_Devil_to_Pay_in_the_Backlands\n",
+      "pages": 494,
+      "title": "The Devil to Pay in the Backlands",
+      "year": 1956
+    },
+  
+    {
+      "author": "Ernest Hemingway",
+      "country": "United States",
+      "imageLink": "https://publication.edugorilla.com/wp-content/uploads/2022/10/The-Old-Man-and-The-Sea.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea\n",
+      "pages": 128,
+      "title": "The Old Man and the Sea",
+      "year": 1952
+    },
+    {
+      "author": "Homer",
+      "country": "Greece",
+      "imageLink": "https://m.media-amazon.com/images/I/91r0R5ZDFFL._AC_UF1000,1000_QL80_.jpg",
+      "language": "Greek",
+      "link": "https://en.wikipedia.org/wiki/Iliad\n",
+      "pages": 608,
+      "title": "Iliad",
+      "year": -735
+    },
+    {
+      "author": "Homer",
+      "country": "Greece",
+      "imageLink": "https://monsieurdidot.com/wp-content/uploads/2020/02/The-Odyssey.jpg",
+      "language": "Greek",
+      "link": "https://en.wikipedia.org/wiki/Odyssey\n",
+      "pages": 374,
+      "title": "Odyssey",
+      "year": -800
+    },
+   
+    {
+      "author": "James Joyce",
+      "country": "Irish Free State",
+      "imageLink": "https://c8.alamy.com/comp/D96CTC/ulysses-on-ogygia-ulysses-mythical-king-of-ithaca-hero-of-homers-odyssey-D96CTC.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/Ulysses_(novel)\n",
+      "pages": 228,
+      "title": "Ulysses",
+      "year": 1922
+    },
+    {
+      "author": "Franz Kafka",
+      "country": "Czechoslovakia",
+      "imageLink": "https://m.media-amazon.com/images/I/A1pxhwOUD8L._AC_UF1000,1000_QL80_.jpg",
+      "language": "German",
+      "link": "https://en.wikipedia.org/wiki/Franz_Kafka_bibliography#Short_stories\n",
+      "pages": 488,
+      "title": "Stories",
+      "year": 1924
+    }]
