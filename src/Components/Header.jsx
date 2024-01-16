@@ -62,7 +62,9 @@ const Navbar = () => {
                        <NavLink to='/blog'>Blog</NavLink>
                      </li>
                      <li>
+                      <NavLink to='/login'>
                       <button className="w-[189px] bg-white text-[#000000] font-medium text-[26px] h-[58px] rounded-[30px]">Login</button>
+                      </NavLink>
                      </li>
                    </ul>
                    

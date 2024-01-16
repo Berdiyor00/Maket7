@@ -121,9 +121,8 @@ const validateEmail = (email) => {
     <div>
 
       <div className="container  text-[#fff] bg-[#2e8862ab]">
-        <NavLink to='/'>
-
-<button className=' absolute top-[70px] text-[28px] left-[20px] text-[#fff]' >
+        <NavLink to='/shop'>
+<button className=' absolute z-10 md:top-[70px] top-[5px] text-[28px] left-[20px] text-[#fff]' >
 <ImHome/>
 </button>
         </NavLink>
